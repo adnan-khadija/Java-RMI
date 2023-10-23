@@ -5,7 +5,7 @@ classe Serveur située dans ServeurRMI/src/serveur/Serveur.java.
 Ensuite, exécutez la classe 'Main' située dans ClientRMI/src/ui/Main.java.
 ##Les modifications apportées aux données des machines.
 
-### La suppression d'une machine dans la base de données.:
+### La suppression d'une machine :
 
 ![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/30b8c6c1-df8b-45f5-8ded-ce1ddc4d4b71)
 
@@ -31,9 +31,28 @@ Ensuite, exécutez la classe 'Main' située dans ClientRMI/src/ui/Main.java.
 
 ## Les modifications des données des salles:
 
+### La suppression d'une salle :
+
 ![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/4e5b5688-0c7c-459d-8899-ba5db02f2bd5)
 
 ![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/e62cdde9-4189-4b6f-8cb4-9f3b362155d7)
+
+### La modification d'une salle:
+
+![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/b8786b19-e544-424e-913a-3b86b5da7ffe)
+
+![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/318e201c-f3ff-4958-b99d-eab7c08cbe61)
+
+### L'ajoute d'une machine :
+
+![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/3611adc0-0c36-43b4-bfca-b182f2794156)
+
+![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/0946b610-0243-4383-91c5-e18a8b063bfa)
+
+
+
+
+
 
 
 
