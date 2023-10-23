@@ -6,6 +6,10 @@ ce qui permet la communication entre deux projets séparés.
 Afin que ce projet puisse être opérationnel, il est nécessaire de démarrer d'abord le serveur RMI en exécutant la 
 classe Serveur située dans *ServeurRMI/src/serveur/Serveur.java*.
 Ensuite, exécutez la classe *'Main'* située dans *ClientRMI/src/ui/Main.java*.
+
+## Lancer le ServeurRMI
+![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/51e98f73-6084-4ee9-984c-1da65db760a9)
+
 ## Le diagramme de classe :
 
 ![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/6cafb8c5-31e4-46db-be00-0e3f7d69cd30)
