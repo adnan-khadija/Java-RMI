@@ -1,9 +1,14 @@
 # Java-RMI
 **Un projet Java RMI**
+
 Afin que ce projet puisse être opérationnel, il est nécessaire de démarrer d'abord le serveur RMI en exécutant la 
-classe Serveur située dans ServeurRMI/src/serveur/Serveur.java.
-Ensuite, exécutez la classe 'Main' située dans ClientRMI/src/ui/Main.java.
-##Les modifications apportées aux données des machines.
+classe Serveur située dans *ServeurRMI/src/serveur/Serveur.java*.
+Ensuite, exécutez la classe *'Main'* située dans *ClientRMI/src/ui/Main.java*.
+## Le diagramme de classe :
+
+![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/6cafb8c5-31e4-46db-be00-0e3f7d69cd30)
+
+## Les modifications apportées aux données des machines.
 
 ### La suppression d'une machine :
 
@@ -33,21 +38,21 @@ Ensuite, exécutez la classe 'Main' située dans ClientRMI/src/ui/Main.java.
 
 ### La suppression d'une salle :
 
-![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/4e5b5688-0c7c-459d-8899-ba5db02f2bd5)
+![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/1b6e6b83-6dc3-46f2-9771-542344fe474b)
 
-![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/e62cdde9-4189-4b6f-8cb4-9f3b362155d7)
+![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/cb729c73-7a5a-4382-a024-1eb5b6f80db3)
 
 ### La modification d'une salle:
 
-![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/b8786b19-e544-424e-913a-3b86b5da7ffe)
+![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/2b691b85-70cc-4dd8-88ae-daf2d3e7cb28)
 
-![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/318e201c-f3ff-4958-b99d-eab7c08cbe61)
+![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/b38dc5a2-8f6f-48b0-8b89-eda70f72cdc7)
 
 ### L'ajoute d'une machine :
 
-![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/3611adc0-0c36-43b4-bfca-b182f2794156)
+![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/67e751af-cf66-450d-86f1-2b8a225051bc)
 
-![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/0946b610-0243-4383-91c5-e18a8b063bfa)
+![image](https://github.com/adnan-khadija/Java-RMI/assets/147508009/f132f605-3420-4fc1-802c-5bf356069c81)
 
 
 
