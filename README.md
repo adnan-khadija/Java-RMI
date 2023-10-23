@@ -1,5 +1,6 @@
 # Java-RMI
 **Un projet Java RMI**
+
 Ce projet simplifie la gestion d'une base de données pour les machines et les salles en utilisant Java RMI, 
 ce qui permet la communication entre deux projets séparés.
 Afin que ce projet puisse être opérationnel, il est nécessaire de démarrer d'abord le serveur RMI en exécutant la 
